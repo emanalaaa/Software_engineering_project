@@ -13,7 +13,13 @@ effective time management is the key to success and most of us face hard challen
     *	includes with a calendar and clock to highlight the time left and set alarm to remind user
     *	software is responsible to create a time table according to listed tasks to make it more manageable
 * **DONE is divided in 2 partitions:** one of the is personally and the other is for team work user can use both of them or just one as the like as done can be used either online or offline
-  
+ ### III. Benefits of DONE Application: 
+*	DONE as a user interface is characterized by interactive and easy to deal with as it well encourages user to get their tasks to be done
+*	DONE work as a reminder as its pop up notifications now and then, set alarms automatically to make sure that user finish tasks on time and never forget them
+*	Increased Productivity: Make user save time and do tasks before deadlines
+*	Enhanced Collaboration 
+
+
 
 
 
