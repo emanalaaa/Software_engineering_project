@@ -1,0 +1,43 @@
+**Functional requirements:**
+
+1. User Interaction:
+    - Setting new tasks
+    - Deleting tasks
+    - Editing tasks content and deadlines
+
+2. Task Organization:
+    - Arranging and labeling tasks based on:
+        - Date in the calendar
+        - Checkbox status (done, not done, too late)
+        - Categories (e.g., tasks for studying, others for work, etc.)
+
+3. Internet Connectivity:
+    - Connect to the internet to share tasks with remote team members
+    - Must be refreshed frequently to keep up with updated tasks
+
+4. Time Management:
+    - Generating timetables for day, week, and year
+    - Including task name, category, start, and deadline
+    - Calculating time left for each task
+
+5. Task Handling:
+    - Breaking tasks into smaller ones (if possible)
+    - Calculating progress
+
+**Nonfunctional requirements:**
+
+1. Efficiency:
+    - Maintain acceptable size to conserve resources
+    - Quick processing and responsiveness to actions
+
+2. Usability:
+    - Understandable and easy-to-use interface
+    - Alarming to remind users of approaching deadlines
+    - Accessible at all times
+
+3. Maintainability and Scalability:
+    - The software should be scalable to handle an increasing number of users and tasks.
+    - Performance should not degrade as the user base grows.
+
+4. Security:
+    - Ensure secure data transmission over the network
